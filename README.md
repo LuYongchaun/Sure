@@ -1,2 +1,2 @@
 # Sure
-just another repository
+my repository
